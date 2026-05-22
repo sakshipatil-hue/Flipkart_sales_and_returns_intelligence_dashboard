@@ -52,8 +52,8 @@ Customer cohort retention line chart
  
 I used webscraping and python scripts to generate the tables and data is collected from different sources and websites.
 
-Flipkart Products Catalog — Kaggle (PromptCloud)
-~15,000 real product listings with prices, brands, categories
+Flipkart Products Catalog — Kaggle (PromptCloud)-~15,000 real product listings with prices, brands, categories
+
 Data distributions based on: RBI Digital Payments Report 2023, Redseer E-commerce Report, Indian Census city population weights, Flipkart published festive season metrics.
 
 
