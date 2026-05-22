@@ -48,6 +48,16 @@ City revenue bubble map (India)
 Top 10 sellers by revenue
 Customer cohort retention line chart
 
+ ## Dataset
+ 
+I used webscraping and python scripts to generate the tables and data is collected from different sources and websites.
+
+Flipkart Products Catalog — Kaggle (PromptCloud)
+~15,000 real product listings with prices, brands, categories
+Data distributions based on: RBI Digital Payments Report 2023, Redseer E-commerce Report, Indian Census city population weights, Flipkart published festive season metrics.
+
+
+
 
 
 Three cities account for over a third of total platform revenue despite representing a small fraction of total customers — premium urban buyers have significantly higher LTV.
