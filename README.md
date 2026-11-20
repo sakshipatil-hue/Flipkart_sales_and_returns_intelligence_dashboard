@@ -5,7 +5,6 @@ using Python, MySQL, and Power BI — uncovering pricing patterns, festive seaso
 
 
 ## 📌 Project Overview
-This project simulates the work of a data analyst at an Indian e-commerce company. Starting from a real Flipkart product catalog ,
 I built a complete multi-table transactional database, performed SQL-based analytics,
 and delivered a one-page interactive Power BI dashboard answering 8 real business questions.
 
